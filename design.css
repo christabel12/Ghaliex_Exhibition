@@ -29,6 +29,8 @@ a:visited {
 
 div {
     scale: 120%;
+    margin-bottom: 30px;
+    margin-top: 50px;
 }
 
 p {
